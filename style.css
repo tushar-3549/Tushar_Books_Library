@@ -1,0 +1,15 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background: azure;
+}
+
+.main_part {
+    margin: auto;
+    width: 50%;
+    margin-top: 30px;
+}
